@@ -1,0 +1,7 @@
+.idea
+project
+target
+generated
+*.anno
+*.fir
+*.v
